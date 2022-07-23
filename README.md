@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PedroS235
 - 👀 I’m interested in programming
 - 🌱 I’m currently studying Computer Science at Uni.lu
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Mail](pmbs.12@hotmail.com)
