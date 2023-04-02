@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 CS at the University of Luxembourg ready to face any challenge🔥<br>🔭 I’m currently working on University Project<br>🌱 I’m currently learning Rust<br>⚡ Love playing with robots and electronics<br>
+💬 CS at the University of Luxembourg ready to face any challenge🔥<br>🔭 I’m currently working on the EggCubator<br>🌱 I’m currently learning Rust<br>⚡ Love playing with robots and electronics<br>
 
 
 ## 🌐 Socials:
