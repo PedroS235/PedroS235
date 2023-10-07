@@ -1,6 +1,6 @@
 # 💫 About Me:
 💬 Recent Computer Science graduate with a passion for building autonomous robots 🤖. Enthusiastic about technology and innovation. Incoming Master's student in Information and Computer Science at the University of Luxembourg. Skilled in FPV drone flying and open-source software development. Eager to contribute expertise to cutting-edge projects. <br>
-🔭 I’m currently working on the [EggCubator](https://github.com/PedroS235/eggcubator)<br>
+🔭 I’m currently working on the [Perceptron Bot](https://github.com/PedroS235/perceptron_bot)<br>
 🌱 I’m currently learning Rust<br>
 ⚡ Love playing with robots and electronics<br>
 
